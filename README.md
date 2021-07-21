@@ -1,16 +1,4 @@
-# news_app_dv
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Making News App With Flutter
+Flutter is an open-source mobile SDK developer can use to build native-looking Android and iOS applications from the same code base. Here Dart language is used to develop flutter app. Here is the project I worked on:
+<h5>News App</h5>
+A flutter app made with the help of NewsApi Org. Here the user can see all the top headlines in the homepage. User can scroll down to see more headlines. Also in this project various categories have been added where the user, on tapping a particular category, will be taken to another page where all the headlines belonging to that particular category will be displayed. The user can tap on any of the headlines which will take her/him to a specific website reporting this news. All the headlines being displayed is fetched by the app from the Api.
